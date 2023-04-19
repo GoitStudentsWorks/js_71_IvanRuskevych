@@ -2,10 +2,10 @@
   "name": "code-wizards-team-project-js",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://ivanruskevych.github.io/code-wizards-team-project-js",
+  "homepage": "https://GoitStudentsWorks.github.io/js_71_IvanRuskevych",
   "scripts": {
     "start": "parcel src/*.html --open",
-    "build": "parcel build src/*.html --public-url /code-wizards-team-project-js/"
+    "build": "parcel build src/*.html --public-url /js_71_IvanRuskevych/"
   },
   "repository": {
     "type": "git",
